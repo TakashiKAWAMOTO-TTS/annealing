@@ -1,10 +1,10 @@
 # Solve Sudoku using D-Wave Leap
 
-## 1. Overview
+### 1. Overview
 
 ・Trial of D-Wave Leap for solving sudoku
 
-## 2. Usage
+### 2. Usage
 
 main.py
 ```
@@ -26,19 +26,19 @@ def main(filename: str = "problem.txt", solver_name: str = "qpu"):
             print("The solution is incorrect")
 ```
 
-### (1) Simulation
+#### (1) Simulation
 
 Use algo = 1, and set "simulation" as "True" for the arguments of solve_using_wave
 
 
-### (2) Calculate with leap
+#### (2) Calculate with leap
 
 Use algo = 1, and set "simulation" as "False" for the arguments of solve_using_wave
 
-**Note:**
+**Note:**  
 algo = 2 works but takes a lot of calculation time.
 
-## Reference
+### Reference
 
-https://zenn.dev/airev/articles/airev-quantum-02
+https://zenn.dev/airev/articles/airev-quantum-02  
 https://lp-tech.net/articles/jbkhW
