@@ -28,6 +28,7 @@ Please check the followings:
 |Project |File |
 |-|-|
 |sudoku |01_sudoku/doc/README.md |
+|graph_partitioning |03_graph_partitioning/doc/README.md |
 
 ### 5. Author
 
