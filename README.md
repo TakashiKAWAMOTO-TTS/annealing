@@ -17,6 +17,9 @@
 ・pandas              2.0.3  
 ・scipy               1.10.1  
 ・sympy               1.13.0  
+・matplotlib          3.7.5  
+・pyqubo              1.4.0  
+・japanmap            0.0.24
 
 ### 4. Usage
 
